@@ -101,7 +101,7 @@ namespace String_Array
             //    Thread.Sleep(10);
             //}*/
 
-
+            Console.WriteLine("Hello");
             Console.ReadKey();
         }
     }
